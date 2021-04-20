@@ -1,8 +1,3 @@
----
-title: "README"
-output: github_document
----
-
 This repo contains files used for cleaning dataset from the "Human Activity Recognition Using Smartphones Dataset
 Version 1.0" (see further information on the dataset bellow) and its respective output tidy dataset required 
 for completion of the course "Getting and cleaning data" on coursera.

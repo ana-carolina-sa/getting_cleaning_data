@@ -1,7 +1,3 @@
----
-title: "CodeBook"
-output: github_document
----
 
 This code book describes the transformations and variables created during the cleaning of the raw data "Human Activity Recognition Using Smartphones Dataset Version 1.0" in the R script run_analysis that generates the output file: tidy_dataset.txt.  
 
